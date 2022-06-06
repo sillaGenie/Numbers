@@ -1,0 +1,10 @@
+﻿<?xml version = "1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+	<Assembly>"C:\Program Files\RevitAPITrainig\Numbers.dll"</Assembly>
+	<AddInId>DAF57DF4-7163-461A-BAFE-589169EE0746</AddInId>
+	<FullClassName>Numbers.Main</FullClassName>
+	<VendorId>ADSK</VendorId>
+	<Text>Нумерация</Text>
+	</AddIn>
+</RevitAddIns>
